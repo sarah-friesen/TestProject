@@ -1,0 +1,14 @@
+---
+title: "Sarah Friesen"
+output: html_notebook
+---
+
+```{r load packages,message=FALSE,cache=TRUE,echo=FALSE}
+require(tidyverse)
+require(sf)
+require(leaflet)
+```
+
+I am working on CHONe Project 1.1.3
+
+
